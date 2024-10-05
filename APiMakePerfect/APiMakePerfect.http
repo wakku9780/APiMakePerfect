@@ -1,0 +1,6 @@
+@APiMakePerfect_HostAddress = http://localhost:5213
+
+GET {{APiMakePerfect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
